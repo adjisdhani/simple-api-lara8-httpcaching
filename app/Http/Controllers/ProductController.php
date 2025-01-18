@@ -14,7 +14,7 @@ class ProductController extends Controller
         ];
 
         $timestamp = now()->timestamp;
-        $timeWindow = floor($timestamp / 60);
+        $timeWindow = floor($timestamp / 1);
 
         $etag = hash('sha256', json_encode($products) . $timeWindow);
 
