@@ -51,7 +51,7 @@ This is a Simple Laravel 8 Caching with HTTP Caching with endpoints accessible v
 
     **Example Response**:
     
-       [
+      [
           {
               "id": 1,
               "name": "Product A",
