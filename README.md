@@ -51,18 +51,18 @@ This is a Simple Laravel 8 Caching with HTTP Caching with endpoints accessible v
 
     **Example Response**:
     
-      [
-          {
-              "id": 1,
-              "name": "Product A",
-              "price": 10000
-          },
-          {
-              "id": 2,
-              "name": "Product B",
-              "price": 20000
-          }
-      ]
+         [
+             {
+                 "id": 1,
+                 "name": "Product A",
+                 "price": 10000
+             },
+             {
+                 "id": 2,
+                 "name": "Product B",
+                 "price": 20000
+             }
+         ]
 7. **Double klik index.html if you want testing a caching client side**
 8. **Penjelasan soal cachingnya**
    ## balikan dari apinya 
