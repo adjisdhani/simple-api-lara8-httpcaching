@@ -39,7 +39,7 @@ This is a Simple Laravel 8 Caching with HTTP Caching with endpoints accessible v
     ```
 
 6. **Access the API**:
-   (http://127.0.0.1:8000/api/employees)
+   (http://127.0.0.1:8000/api/products)
 
       ## API Endpoints 
     
